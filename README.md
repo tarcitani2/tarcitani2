@@ -1,4 +1,4 @@
-  <p>Hello there! I'm [Your Name], a passionate developer with a love for clean code, innovative solutions, and all things tech. Explore my digital playground, where I share my work and experiences.</p>
+  <p>Hello there! I'm a Full Stack Developer passionate about building with React, React Native, Node.js, Ruby, Ruby on Rails, Arduino, and more. Explore my projects below and feel free to connect!</p>
   <h2>Technologies and Tools</h2>
   <p>Languages: [List of Programming Languages]</p>
   <p>Frameworks: [List of Frameworks]</p>
