@@ -1,6 +1,10 @@
 # Seja bem-vindo(a) no meu perfil do Github
 Sou um mero **estudante de programação** que posta alguns projetos por aqui! (__embora não seja tão frequente kk__).
 
+## Linguagens que gosto de usar
+- [] Java
+- [] JavaScript
+
 ## Caso você queira me seguir, além de me deixar mais feliz, vou te seguir de volta! <3
 * Meu canal do YouTube
 * Meu perfil no Instagram
