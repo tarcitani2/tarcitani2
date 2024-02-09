@@ -13,4 +13,4 @@ Sou um mero **estudante de programação** que posta alguns projetos por aqui! (
 * [Meu perfil no Instagram](https://www.instagram.com/tarcitani2/)
 * [Meu perfil no X](https://twitter.com/tarcitani2)
 
->La vie est drole
+>La vie est drole - n sei de quem é
