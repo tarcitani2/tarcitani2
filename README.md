@@ -9,7 +9,9 @@ JS | 8
 Java | -4
 
 ## Caso você queira me seguir, além de me deixar mais feliz, vou te seguir de volta! <3
-* [Meu canal do YouTube]
-* [Meu perfil no Instagram]
+* [Meu canal no YouTube](https://www.youtube.com/@tarcitani)
+* [Meu perfil no Instagram](https://www.instagram.com/tarcitani2/)
+* [Meu perfil no X](https://twitter.com/tarcitani2)
+
 
 >Por enquanto é isso...
