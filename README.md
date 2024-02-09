@@ -2,8 +2,8 @@
 Sou um mero **estudante de programação** que posta alguns projetos por aqui! (__embora não seja tão frequente kk__).
 
 ## Linguagens que gosto de usar
--> JavaScript
--> PHP (_)
+* JavaScript
+* PHP
 
 ## Caso você queira me seguir, além de me deixar mais feliz, vou te seguir de volta! <3
 * [Meu canal do YouTube]
