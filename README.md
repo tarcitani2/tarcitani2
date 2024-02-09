@@ -1,3 +1,3 @@
-<h1>Quem sou eu? <h1/><br>
-  
-<p>Eai!, sou apenas um mero estudante de tecnologia nesse mundo. Caso queira me seguir, sigo de volta. Vlw!</p>
+<h1>Seja bem-vindo(a) no meu perfil do Github</h1>
+<p>Sou um mero estudante de programação que posta alguns projetos por aqui! (embora não seja tão frequente kk).</p><hr>
+<p>Caso você queira me seguir, além de me deixar mais feliz, vou te seguir de voltar <3</p>
