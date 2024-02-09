@@ -5,6 +5,8 @@ Sou um mero **estudante de programação** que posta alguns projetos por aqui! (
 
 * Pyhton
 * C/C++
+* HTML
+* CSS
 * JavaScript
 
 ## Caso você queira me seguir, além de me deixar mais feliz, vou te seguir de volta! <3 :point_down:
